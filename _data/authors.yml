@@ -1,18 +1,18 @@
 # Authors
 
 Name Name:
-  name        : "Name Name"
-  uri         : "http://name.com"
-  email       : "name@name.com"
+  name        : "Sophie Slaats"
+  uri         : "http://sophieslaats.com"
+  email       : "sophie.slaats@mpi.com"
   bio         : "This is the first name."
   avatar      : "bio-photo-2.jpg"
-  twitter     : "name"
-  google_plus : "Name"
+  twitter     : "@sophie_slaats"
+  google_plus : "none"
 
 Name2 Name2:
-  name        : "Name2 Name2"
+  name        : "Fake ID"
   email       : "name2@name2.com"
   bio         : "I ordered what?"
   avatar      : "bio-photo.jpg"
-  twitter     : "name2"
-  google_plus : "Name"
+  twitter     : "none"
+  google_plus : "none"
